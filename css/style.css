@@ -1,0 +1,227 @@
+body
+{
+	background: url('../img/bg.png');
+	color: #d8d8d8;
+	font-family: Arial;
+}
+
+
+span.error{
+	color: red;
+	text-align: center;
+	display: block;
+	margin: 7px;
+}
+span.success{
+	color: green;
+	text-align: center;
+	display: block;
+	margin: 7px;
+}
+
+header a{
+	text-decoration: none;
+	color: #d8d8d8;
+	
+	transition: all 0.7s ease;
+}
+
+header a:hover{
+	color: #dfe0e0;
+	text-shadow: 2px 1px 0px rgba(0, 0, 0, 0.75);
+	font-size: 38px;
+}
+
+header ul li a:hover{
+	color: #dfe0e0;
+	text-shadow: 2px 1px 0px rgba(0, 0, 0, 0.75);
+	font-size: 22px;
+}
+
+header, footer
+{
+	text-align: center;
+	background-color: #004c9e;
+	background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+}
+
+header{
+	padding: 10px;
+}
+
+header h1{
+	font-size: 35px;
+}
+
+header h2{
+	padding: 10px;
+}
+
+
+ul{
+	list-style: none;
+}
+ul li{
+	display: inline-block;
+	font-size: 20px;
+	padding: 10px 0;
+	
+	margin-left: 7px;
+}
+
+ul .unactive{
+		text-decoration: line-through;
+}
+
+#search{
+	margin: 7px 0;
+}
+
+#wrapper, header > .content, footer{
+	margin: 0 auto;
+	width: 960px;
+}
+
+.hidden{
+	display:none;
+}
+
+.hideinfo
+{
+	color: black;
+}
+
+#cityinfo
+{
+	width: 850px;
+	margin: 0 auto;
+	
+	
+	padding-bottom: 25px;
+	color: #515353;
+}
+
+.cities
+{
+  display: block;
+  text-align: center;  
+  padding: 25px;
+}
+.city
+{
+	width: 149px;
+	height: 149px;
+	background: black;
+	border: 1px solid blue;
+	position: relative;
+	display: inline-block;
+}
+
+.city img{
+	width: 149px;
+	height: 149px;
+}
+
+.city .cityname{
+	display: none;
+	position: absolute;
+	color: white;
+	
+	left: 0;
+	right: 0;
+	
+	bottom: 0;
+	
+	text-shadow: 0px -1px 2px #333333,
+	0px 1px 2px #333333,
+	1px 1px 2px #333333,
+	1px 0px 2px #333333;
+}
+.city:hover .cityname{
+	display: block;
+}
+
+
+.city_form{
+	width: 100%;
+	text-align: center;
+}
+
+.city_form input[type="text"], input[type="url"], textarea, button{
+	width: 450px;
+	margin: 15px auto;
+	display: block;
+}
+
+.city_form button{
+	height: 50px;
+}
+
+.city_form textarea{
+	resize: none;
+}
+
+.waitcity{
+	width: 800px;
+	
+	margin: 0 auto;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	color: #343333;
+}
+
+.waitcity td, .waitcity th{
+	padding: 3px;
+}
+.waitcity th{font-weight: bold;}
+table, th, td {
+   border: 1px solid black;
+}
+footer p{
+	font-size: 14px;
+	text-align: center;
+	color: #c8c6c6;
+	text-shadow: 1px 0px 0px rgba(0, 0, 0, 0.45);
+	padding: 10px 0;
+}
+
+
+.text_all_shadow
+{
+	text-shadow: 0px -1px 2px #333333,
+	0px 1px 2px #333333,
+	1px 1px 2px #333333,
+	1px 0px 2px #333333;
+}
+
+.bot-left {
+  position: relative;
+  border-radius: 1px;
+}
+.bot-left:before, .bot-left:after {
+  content: "";
+  position: absolute;
+  top: -3px;
+  left: -3px;  
+}
+
+.border-color-header:after {
+  right: -3px;
+  height: 2px;
+  width: 100%;
+  background-image: -webkit-linear-gradient(left, rgba(55, 65, 75, 0.10), rgba(55, 65, 75, 0.35), rgba(55, 65, 75, 0.6), rgba(55, 65, 75, .8), rgba(55, 65, 75, 0.6), rgba(55, 65, 75, 0.35), rgba(55, 65, 75, 0.10));
+  background-image: -moz-linear-gradient(left, rgba(55, 65, 75, 0.10), rgba(55, 65, 75, 0.35), rgba(55, 65, 75, 0.6), rgba(55, 65, 75, .8), rgba(55, 65, 75, 0.6), rgba(55, 65, 75, 0.35), rgba(55, 65, 75, 0.10));
+}
+.border-color-vframe:after {
+  right: -3px;
+  width: 100%;
+  height: 2px;
+  background-image: -webkit-linear-gradient(left, rgba(119, 76, 40, 0.10), rgba(119, 76, 40, 0.35), rgba(119, 76, 40, 0.6), rgba(119, 76, 40, .8), rgba(119, 76, 40, 0.6), rgba(119, 76, 40, 0.35), rgba(119, 76, 40, 0.10));
+  background-image: -moz-linear-gradient(left, rgba(119, 76, 40, 0.10), rgba(119, 76, 40, 0.35), rgba(119, 76, 40, 0.6), rgba(119, 76, 40, .8), rgba(119, 76, 40, 0.6), rgba(119, 76, 40, 0.35), rgba(119, 76, 40, 0.10));
+}
+
+.float_right{float: right; }
+
+.float_left{float: left; }
+
+.clear_both{clear: both;}
