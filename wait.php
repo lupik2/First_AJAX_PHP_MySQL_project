@@ -24,17 +24,15 @@
 								echo "<td>" . $row['opis'] . "</td>";
 								echo "<td>" . $row['obrazek'] . "</td>";
 								if(isset($_SESSION['login_status'])){echo '<td> <a href="delete.php?id=' . $row['id'] .'">USUŃ</a></td>';}
+								if(isset($_SESSION['login_status'])){echo '<td> <a href="accept.php?id=' . $row['id'] .'">AKCEPTUJ</a></td>';}
 								echo "</tr>";
 								$row = $zm1-> fetch_assoc();
 							}
 							
 							echo "</table>";
 					}
-
 			?>
-
-
-			
+	
 			
 		
 	<!-- WRAPPER KONIEC-->

@@ -1,32 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cities>
-		<info id="1" >Toruń i (niem. Thorn, łac. Thorunia, Torunium) – miasto na prawach powiatu w województwie kujawsko-pomorskim. Prawobrzeżna część miasta leży na Pomorzu, lewobrzeżna część położona jest na Kujawach. Miasto leży nad Wisłą i Drwęcą.
-
-Siedziba marszałka województwa kujawsko-pomorskiego, siedziba organów samorządu województwa, czyli Zarządu Województwa Kujawsko-Pomorskiego, Kujawsko-Pomorskiego Sejmiku Wojewódzkiego oraz jednostek wojewódzkich im podporządkowanych, a także siedziba starosty powiatu toruńskiego. Jest również jednym z miast centralnych Bydgosko-Toruńskiego Obszaru Funkcjonalnego.
-
-Stolica diecezji toruńskiej.</info>
-		<info id="2" >Wrocław (wymowa i, łac. Vratislavia lub Wratislavia lub Budorgis, niem. Breslau i, śl-niem. Brassel, czes. Vratislav, węg. Boroszló) – miasto na prawach powiatu w południowo-zachodniej Polsce, siedziba władz województwa dolnośląskiego i powiatu wrocławskiego. Położone w Europie Środkowej na Nizinie Śląskiej, w Pradolinie Wrocławskiej, nad rzeką Odrą i czterema jej dopływami. Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.
-
-Jest głównym miastem aglomeracji wrocławskiej. Czwarte pod względem liczby ludności miasto w Polsce – 637 075 mieszkańców, piąte pod względem powierzchni – 292,82 km².
-
-Dawna stolica księstwa wrocławskiego, siedziba władz pruskiej prowincji Śląsk i rejencji wrocławskiej. Od 28 czerwca 1946 stolica województwa wrocławskiego. Od 1 stycznia 1999 stolica województwa dolnośląskiego.
-
-Wrocław znalazł się wśród 230 miast świata w rankingu firmy doradczej Mercer „Najlepsze miasta do życia” w roku 2015 oraz jako jedyne polskie miasto został w tym rankingu ujęty jako miasto wyrastające na centrum biznesowe.</info>
-		<info id="3" >Łódź – miasto na prawach powiatu w środkowej Polsce. Siedziba władz województwa łódzkiego, powiatu łódzkiego wschodniego oraz gminy Nowosolna. Przejściowa siedziba władz państwowych w 1945 roku.
-
-Ośrodek akademicki (6 uczelni państwowych oraz 22 prywatne), kulturalny i przemysłowy. Przed przemianami polityczno-gospodarczymi w 1989 r. centrum przemysłu włókienniczego i filmowego. Ważny węzeł komunikacji drogowej. Sześć kilometrów od centrum Łodzi znajduje się Międzynarodowy Port Lotniczy Łódź im. Władysława Reymonta (Łódź-Lublinek).
-
-Łódź jest trzecim miastem w Polsce pod względem liczby ludności zameldowanej (698 688) i czwartym pod względem powierzchni (293,25 km²).
-
-W 2015 r. niektóre obszary miasta zostały uznane za „Pomnik historii” pod wspólną nazwą „Łódź – wielokulturowy krajobraz miasta przemysłowego”.
-
-Miasto należy do Unii Metropolii Polskich i Związku Miast Polskich, a także do stowarzyszenia Eurocities oraz Stowarzyszenia Zdrowych Miast Polskich.
-
-Łódź była prywatnym miastem duchownym – jako Łodzia jest wymieniana wśród miast biskupstwa włocławskiego w powiecie brzezińskim województwa łęczyckiego w końcu XVI wieku.</info>
-		
-		<info id="4" >Kraków (łac.: Cracovia, niem.: Krakau) – miasto położone w południowej Polsce nad Wisłą, drugie w kraju pod względem liczby mieszkańców i powierzchni, stolica Polski do 1795 r. i miasto koronacyjne oraz nekropolia królów Polski, od 1000 roku nieprzerwanie stolica diecezji krakowskiej (jednej z pięciu w ówczesnej Polsce), a od 1925 archidiecezji i metropolii, od odzyskania niepodległości w 1918 r. miasto wojewódzkie (od 1998 r. siedziba władz województwa małopolskiego), jest także centralnym ośrodkiem metropolitalnym aglomeracji krakowskiej i Krakowskiego Obszaru Metropolitalnego. W zapisach historycznych Kraków jest uznawany za główne miasto historycznej Małopolski. Leży na obszarze Bramy Krakowskiej, Niecki Nidziańskiej i Pogórza Zachodniobeskidzkiego.
-
-W Krakowie znajdują się główne siedziby m.in.: Polskiej Akademii Umiejętności, Narodowego Centrum Nauki, Polskiego Towarzystwa Promieniowania Synchrotronowego, Krajowej Szkoły Sądownictwa i Prokuratury, dowództwa Sił Specjalnych RP będące jednocześnie jednym z kilku dowództw sił specjalnych NATO, Centrum Operacji Lądowych – Dowództwa Komponentu Lądowego, Polskiego Związku Narciarskiego. W mieście działają placówki kulturalne o znaczeniu i statusie narodowym m.in. Narodowy Stary Teatr, Muzeum Narodowe, Panteon Narodowy, Archiwum Narodowe, Biblioteka Jagiellońska, Instytut Książki, Centrum Operacji Specjalnych, Narodowe Centrum Rugby.
-
-Miasto na prawach powiatu pełni funkcję centrum administracyjnego, kulturalnego, edukacyjnego, naukowego, gospodarczego, usługowego i turystycznego. Kraków jest drugim co do wielkości, po Warszawie, rynkiem nowoczesnej powierzchni biurowej, a także jednym z kluczowych węzłów kolejowych w Polsce. W Balicach pod Krakowem znajduje się drugi co do liczby obsługiwanych pasażerów rocznie port lotniczy w Polsce, a który ponownie obsługiwał będzie połączenia transatlantyckie.</info>
-</cities>
+<info id="55"><name>Wrocław</name><desc>Wrocław – miasto na prawach powiatu w południowo-zachodniej Polsce, siedziba władz województwa dolnośląskiego i powiatu wrocławskiego.</desc><link>https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Herb_wroclaw.svg/762px-Herb_wroclaw.svg.png</link></info><info id="56"><name>Kraków</name><desc>raków – miasto położone w południowej Polsce nad Wisłą, drugie w kraju pod względem liczby mieszkańców i powierzchni, stolica Polski do 1795 r. i miasto koronacyjne oraz nekropolia królów Polski, od 1000 roku </desc><link>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kola%C5%BC_Krakowa.JPG/800px-Kola%C5%BC_Krakowa.JPG</link></info>
+<info id="58"><name>katowice</name><desc>katowice to takie miasto jest</desc><link>http://www.vlokatowice.eu/wp-content/uploads/2014/10/miasto44.jpg</link></info><info id="59"><name>12e21e12</name><desc>Kotek psotek</desc><link>http://www.tapeta-kot-grafika.na-pulpit.com/zdjecia/kot-grafika.jpeg</link></info><info id="60"><name>Pisek</name><desc>Taki groźny wilczur!</desc><link>http://167.114.226.27/fbl-2013/201311/161263506.jpg</link></info><info id="61"><name>POLSKI ZNAK</name><desc>????ó??</desc><link>http://znadniemna.pl/wp-content/uploads/2014/08/PW-znak.jpg</link></info></cities>

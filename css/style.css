@@ -55,6 +55,9 @@ header h1{
 
 header h2{
 	padding: 10px;
+	color: #d8d8d8;
+	text-shadow: 2px 1px 0px rgba(0, 0, 0, 0.75);
+
 }
 
 
@@ -80,7 +83,9 @@ ul .unactive{
 #wrapper, header > .content, footer{
 	margin: 0 auto;
 	width: 960px;
+	color: #2b2b2a;
 }
+
 
 .hidden{
 	display:none;
@@ -115,6 +120,7 @@ ul .unactive{
 	border: 1px solid blue;
 	position: relative;
 	display: inline-block;
+    margin: 3px;
 }
 
 .city img{
@@ -126,6 +132,7 @@ ul .unactive{
 	display: none;
 	position: absolute;
 	color: white;
+	text-transform: uppercase;
 	
 	left: 0;
 	right: 0;
@@ -162,17 +169,25 @@ ul .unactive{
 }
 
 .waitcity{
-	width: 800px;
-	
+    max-width: 100%;
 	margin: 0 auto;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
 	color: #343333;
+	display: block;
 }
 
 .waitcity td, .waitcity th{
 	padding: 3px;
+	height: 25px;
 }
+
+.waitcity td:nth-child(2){
+	overflow: auto;
+	max-width: 480px;
+
+}
+
 .waitcity th{font-weight: bold;}
 table, th, td {
    border: 1px solid black;
